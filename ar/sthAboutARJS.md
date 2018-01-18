@@ -1,0 +1,1 @@
+window.AFRAME = f() //将主函数绑定在window上
